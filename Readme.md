@@ -1,8 +1,10 @@
+Start on 1st Auguast 2025
+
 ### ✅ *Phase 1: Express.js Core (Day 1–15)*
 
 | Day | Topics                                            |
 | --- | ------------------------------------------------- |
-| 1   | What is Express? Setup Node + Express App         |
+| 1   | What is Express? Setup Node + nodemon + Express App   ✅      |
 | 2   | app.listen(), req & res objects             |
 | 3   | Routes: app.get(), app.post(), RESTful routes |
 | 4   | Route Parameters and Query Strings                |
