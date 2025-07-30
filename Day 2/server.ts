@@ -7,7 +7,12 @@ app.use(express.json());
 
 
 app.get('/', (req, res) => {
-    res.send("Express Home")
+    res.json({ name: "Tanveer", role: "Developer" });
+});
+
+
+app.get('/snd', (req, res) => {
+    res.send("This is a Home Page");
 });
 
 app.post('/user', (req, res) => {
