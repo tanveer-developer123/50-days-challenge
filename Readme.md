@@ -7,7 +7,7 @@ Start on 1st Auguast 2025
 | 1   | What is Express? Setup Node + nodemon + Express App    ✅    
 | 2   | app.listen(), req & res objects             ✅
 | 3   | Routes: app.get(), app.post(), RESTful routes    ✅
-| 4   | Route Parameters and Query Strings                
+| 4   | Route Parameters and Query Strings                ✅
 | 5   | Express Middleware: Basics, Custom Middleware     
 | 6   | Serving Static Files (images, HTML, etc.)         
 | 7   | Templating Engines: EJS or Pug                    
