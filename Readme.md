@@ -10,7 +10,7 @@ Start on 1st Auguast 2025
 | 4   | Route Parameters and Query Strings                     ✅
 | 5   | Express Middleware: Basics, Custom Middleware          ✅
 | 6   | Serving Static Files (images, HTML, etc.)              ✅
-| 7   | Templating Engines: EJS or Pug                    
+| 7   | Templating Engines: EJS or Pug                         ✅
 | 8   | JSON Response & res.json()                             ✅
 | 9   | Project: Mini REST API without DB                 
 | 10  | HTTP Status Codes & Headers                       
